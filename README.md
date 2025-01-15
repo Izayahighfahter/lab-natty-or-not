@@ -10,7 +10,7 @@ Canvas
 Passando o prompt para a IA
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Design sem nome.png
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.

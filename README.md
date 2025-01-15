@@ -1,13 +1,13 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de imagem
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Canvas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Passando o prompt para a IA
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
